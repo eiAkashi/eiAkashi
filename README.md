@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @eiAkashi
-- 👀 I’m interested in everyting data, computing power, memory, network, platform and cloud can do.
+- 👀 I’m interested in everyting data, artificial intelligence, computing, connectivity and cloud can do.
 - 🌱 I’m currently learning Machine Learning, hope one day machine can also interested to do Human Learning :D
-- 💞️ I’m looking to collaborate on project to facilitate Enterprises Digital Transformation.
-- 📫 How to reach me: drop me a line, twitter me @EichoAkashi or join me here.
+- 💞️ I’m looking to collaborate on project to facilitate Enterprises Digital Transformation & IT Modernization.
+- 📫 How to reach me: Join me here, or twitter me @EichoAkashi.
 
 <!---
-eiAkashi/eiAkashi is a ✨ special ✨ repository 
+eiAkashi/eiAkashi is a ✨ special purpose ✨ repository 
 --->
