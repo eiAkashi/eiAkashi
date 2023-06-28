@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on project to facilitate Enterprises Digital Transformation & IT Modernization.
 - 📫 How to reach me: Join me here, or twitter me @EichoAkashi.
 
+this is one of my repo created after 2020, for working with external entity.
 <!---
 eiAkashi/eiAkashi is a ✨ special purpose ✨ repository 
 --->
