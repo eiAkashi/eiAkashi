@@ -15,3 +15,4 @@
 # 2023 Note
 
 ## Towards Efficiency & Growth 
+It is the ability to build product efficiently. building the machine that can make better product.
