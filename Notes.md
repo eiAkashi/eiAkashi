@@ -1,3 +1,5 @@
+# Notes by Years
+
 # 2020 Note 
 
 ## The world is fine when you know how to live
@@ -9,3 +11,7 @@
 # 2022 Note
 
 ## Never get yourself lost
+
+# 2023 Note
+
+## Towards Efficiency & Growth 
